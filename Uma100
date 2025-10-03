@@ -1,0 +1,12 @@
+
+package javaapplication4;
+
+//Uma100 basic exercise in Java
+
+//Simple Resolution Code
+public static void main(String[] args) {
+    //Instructs of loop
+    for (int i = 1; i <= 100; i++) {
+        System.out.printf("%d ", i);
+    }
+}
